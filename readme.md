@@ -280,6 +280,5 @@ Potential improvements for this machine learning component:
 
 For questions or issues:
 
-1. **Open an Issue**: [GitHub Issues](https://github.com/wendytnn/irish-transport-ml-models/issues)
-2. **LinkedIn**: [Wendy Tan Pei Wen](https://www.linkedin.com/in/wendytanpeiwen513/)
+1. **LinkedIn**: [Wendy Tan Pei Wen](https://www.linkedin.com/in/wendytanpeiwen513/)
 
